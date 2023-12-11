@@ -1,0 +1,17 @@
+body{
+    background-color: antiquewhite;
+}
+
+.footer{
+    background-color: skyblue;
+}
+.main-footer{
+    align-items: center;
+}
+
+
+
+.footer__item {
+    margin-right: 10px; /* Adjust the value as needed */
+  }
+  
